@@ -7,7 +7,8 @@
 
 4) Database is mocked in `Utils/DatabaseClient.ts` file. I used `setTimeOut` in order to mock database delays. 
 
-##Run Locally
+Run Locally
+-
 `npm install`
 
 `npm start`
