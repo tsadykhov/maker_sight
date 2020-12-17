@@ -1,4 +1,5 @@
-#Notes
+Notes
+-
 1) I used TypeScript for implementing the API and Non-relational db model in order to model Products.
 
 2) As far as my knowledge, images can be accessed within `React` without needing to be stored in the database. However, I am not sure how to do it.
