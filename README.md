@@ -36,6 +36,7 @@ To mock the provided web page we may have following endpoints:
 Test Strategy
 --
 To test the API, we can use different tools such as Jest and Mocha. 
+
 In order to unit testing our methods we can use mock database to make sure the production data does not get dirty.
 
 
