@@ -33,3 +33,9 @@ To mock the provided web page we may have following endpoints:
     To add a new product to our data base. name and price are required. we can set all assets in addition to parent and child products in front-end
 
 
+Test Strategy
+--
+To test the API, we can use different tools such as Jest and Mocha. 
+In order to unit testing our methods we can use mock database to make sure the production data does not get dirty.
+
+
